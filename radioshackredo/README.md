@@ -105,13 +105,6 @@ You are the designer, the design here is up to you. Have fun and see what you ca
 	
 ## How to Test Your Code
 
-No `check50` for this assignment! To ensure that the code on your pages is valid, you can use this [Markup Validation Service](https://validator.w3.org/#validate_by_input), copying and pasting your HTML directly into the provided text box.
+To ensure that the code on your pages is valid, you can use this [Markup Validation Service](https://validator.w3.org/#validate_by_input), copying and pasting your HTML directly into the provided text box.
 
-## How to Submit
-
-In your terminal, cd into the `radionow` folder and execute the below to submit your work.
-
-```
-submit50 cs50/labs/2022/fall/radioshack
-```
 
